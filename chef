@@ -1,1 +1,7 @@
 sudo chef-server-ctl user-create delivery FIRST_NAME LAST_NAME EMAIL_ADDRESS 'PASSWORD' --filename AUTOMATE_CHEF_USER_KEY 
+
+
+  
+chef-server-ctl user-create aniruddha jere aj@chef.io 'P2ssw0rd' --filename /tmp/aj_user.pem 
+ 
+
